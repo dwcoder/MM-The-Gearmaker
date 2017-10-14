@@ -41,6 +41,11 @@ do
 done
 
 
+# Put the general rules in the character books folder, so it can be included
+pandoc -f markdown -t latex -o ./generated/Characterbooks/rules.tex General_Rules.md
+
+
+
 for foldername in $folders
 do
     echo cd "$workdir"/generated/$foldername
