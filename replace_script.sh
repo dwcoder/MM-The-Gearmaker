@@ -2,8 +2,9 @@
 
 # Read all the lines in replacelist_robot.txt and use them to construct sed strings
 
-rm -rf generated
-cp -r raw generated
+workdir=$(pwd)
+
+abs_replace_list_file=$workdir/replacelist_robot.txt
 
 function do_replacings() {
     filename=$1
@@ -22,37 +23,56 @@ function do_replacings() {
             echo sed -i 's/'"$to_replace"'/'"$replace_with"'/g' "$filename"
             sed -i 's/'"$to_replace"'/'"$replace_with"'/g' "$filename"
 
-    done < replacelist_robot.txt
+    done < $abs_replace_list_file
 }
 
 
 
-for file in generated/*.md
+
+folders="Characterbooks
+Newspaper"
+
+rm -rf generated
+mkdir generated
+
+for foldername in $folders
 do
-     file_md=${file##*/}
-     basename=${file%%.*}
-
-     echo "------------ ${file##*/} ------------"
-     do_replacings $file
-
-     echo pandoc -f markdown -t latex -o "$basename".pdf $file
-     pandoc -f markdown -t latex --template generated/template.tex -o "$basename".pdf $file
+    cp -r $foldername generated/$foldername
 done
 
-rm generated/*.md
+
+for foldername in $folders
+do
+    echo cd "$workdir"/generated/$foldername
+    cd "$workdir"/generated/$foldername
+    for file in *.md
+    do
+
+        basename=${file%.*}
+
+
+        echo "------------ ${file##*/} ------------"
+        do_replacings $file
+
+        echo pandoc -f markdown -t latex -o "$basename".pdf $file
+        pandoc -f markdown -t latex --template="template.tex" -o "$basename".pdf $file
+
+    done
+
+done
+
+cd $workdir
 
 
 # Test to see whether there are any ones we missed:
-
 echo
 echo
 echo The following are some missed replacements:
 echo
-find generated -iname "*.md" | xargs grep --color=always -n -E "=[^=]*="
+find ./generated -iname "*.md" | xargs grep --color=always -n -E "=[^=]*="
 echo
 echo Specify values for these values in the 'replacelist_robot.txt' file
 
-
-
+find ./generated -iname "*.md" | xargs rm
 
 
