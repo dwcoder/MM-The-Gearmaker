@@ -1,4 +1,7 @@
-# Name: =Spouse=
+---
+title: =Spouse=
+...
+
 ## Character background
 
 You were educated at Cambridge and once had a promising career as an engine-maker yourself (you built a chess-playing machine at the age of 14).
