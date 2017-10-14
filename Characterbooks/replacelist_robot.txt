@@ -1,0 +1,39 @@
+=Luddite=:Odis Urquart
+=he Luddite=:he
+=him Luddite=:him
+=his Luddite=:him
+=gentleman Luddite=:gentleman
+
+=PM=:Sir Doctor Conrad Borthwell
+=him PM=:him
+=his PM=:his
+=His PM=:His
+=he PM=:he
+
+=Narco heir=:Hazel Ryan
+
+
+=Narco Sicario=:Mortimer Sicario
+=he Narco Sicario=:he
+=his Narco Sicario=:his
+=him Narco Sicario=:him
+=man Narco Sicario=:man
+=name only Narco Sicario=:Mortimer
+
+=French savant=:Arnaud Lepetit
+=his French savant=:his
+=he French savant=:he
+
+=Spouse=:Rae Haborlian
+=she Spouse=:she
+=her Spouse=:her
+
+=Assistant=:Lorraine Stoker
+=she Assistant=:she
+=her Assistant=:her
+
+=CEO=:Earle Welter
+=his CEO=:his
+
+=Inspector=:Retired Chief Inspector Mycroft Windsor
+

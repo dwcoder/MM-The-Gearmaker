@@ -1,0 +1,41 @@
+# This list includes a bunch of strings that can be searched and replaced; it is used to fix the genders of the characters after deciding what they should be.
+# Use pronouns like =him Luddite=, =her Spouse= that is easy to read, but also to search and replace later.
+
+=Luddite=
+=he Luddite=
+=him Luddite=
+=gentleman Luddite=
+
+=PM=
+=him PM=
+=his PM=
+=His PM=
+=he PM=
+
+=Narco heir=
+
+=Narco Sicario=
+=he Narco Sicario=
+=his Narco Sicario=
+=him Narco Sicario=
+=man Narco Sicario=
+=name only Narco Sicario=
+
+=French savant=
+=his French savant=
+=he French savant=
+
+=Spouse=
+=she Spouse=
+=her Spouse=
+
+=Assistant=
+=she Assistant=
+=her Assistant=
+
+=CEO=
+=his CEO=
+
+
+=Inspector=
+=Host=
