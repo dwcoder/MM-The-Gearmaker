@@ -62,7 +62,7 @@ BTD Ltd. is partly owned by the Ryan family, and specialises in copper communica
 **Retired Chief Inspector Mycroft Windsor** (Male inspector) \
 **Retired Chief Inspector Verla Windsor**  (Female inspector) \
 Negotiations consultant and mediator, used to work for Scotland Yard.
-A self-proclaimed pacifist, =he inspector= is widely respected and regular attendee at any events where national and international matters are discussed and negotiated and is said by many to be the sole proprietor of peace during recent times where nations have often been at each other's throats.
+A self-proclaimed pacifist, =he Inspector= is widely respected and regular attendee at any events where national and international matters are discussed and negotiated and is said by many to be the sole proprietor of peace during recent times where nations have often been at each other's throats.
 
 # Letters to the editor
 

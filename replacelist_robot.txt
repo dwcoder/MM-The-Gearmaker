@@ -36,4 +36,5 @@
 =his CEO=:his
 
 =Inspector=:Retired Chief Inspector Mycroft Windsor
+=he Inspector=:he
 
