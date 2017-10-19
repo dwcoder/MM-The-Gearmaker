@@ -16,36 +16,31 @@ The holder of 80 patents, Wilbur hails from humble beginnings and little is know
 Thanks to discovery and patronage from the Ryan family, Wilbur was able to achieve great things.
 Despite all the yellow-press rumours of adulterous nature, Wilbur has been married all his life to his wife, lady Rae Haborlian.
 
-**Odis Urquart** (Male Luddite) \
-**Margaret Urquart** (Female Luddite) \
+**=Luddite=** \
 Self-described old-money =gentleman Luddite=, =Luddite= is mostly known as a member the now-defunct House of Lords. Not one to shy away from public life, =he Luddite= acts as the unofficial leader of the Luddites, who continue to preach their anti-engineering, moral and religious message.
 While mostly regarded as harmless, the Luddites still control substantial wealth as a group, and their nationalistic propaganda is thought by many to be populist pandering; the Luddites have seen their wealth multiplied many times by our Industrial Revolution.
 Hence, they are still consulted on important matters of economy and state, and =Luddite= is sure to be seen at any meetings of importance.
 
 
-**Sir Doctor Conrad Borthwell** (Male PM) \
-**Sir Doctor Beula Borthwell** (Female PM) \
+**=PM=** \
 =His PM= excellency the Prime Minister and Chair of the Royal Society of Engineering.
 Cambridge educated, Sir Doctor =PM= successfully lead Britain through the transition to constitutional technocracy. While still derided for =his PM= inability to identify and develop Wilbur Haborlian, one must admit the Prime Minister has had far more successes than failures in =his PM= tenure.
 Inventor of the fighting system used by the British Armed forces, published in =his PM= text "Scientific Bayonetting, a Field Guide to Biological Deconstruction".
 
 
-**Hazel Ryan** (Female Narco heir) \
-**Dominique Ryan** (Male Narco heir) \
+**=Narco heir=** \
 The the heir to the mighty Ryan fortune; a multinational umbrella corporation that owns companies in nearly every field. It has been speculated that the deceased Ryan patriarch, George Alexander Ryan, amassed his fortune by being the biggest Opium smuggler in Europe, but this has never been proven.
 The family have expanded to more lucrative industries in recent years, like industrial warfare equipment.
 
-**Mortimer Sicario** (Male Narco Sicario) \
-**Odelia Sicario** (Female Narco Sicario) \
+**=Narco Sicario=** \
 =Narco Sicario= acted as right hand =man Narco Sicario= and chief security adviser to the Ryan family, and has been with them for 25 years. Being near the Ryan family necessitates mystery and rumour, and the yellow press speculates that =Narco Sicario= used to be the Ryan hitman. Far be it from this newspaper to repeat such allegations, and we merely note that anywhere =Narco heir= appears in public, =name only Narco Sicario= is bound to be there.
 
 
-**Arnaud Lepetit** (Male French savant) \
-**Sophie Lepetit** (Female French savant) \
+**=French savant=** \
 Representing the newly-independent France, =French savant= is a retired french spy and intelligence official, who has seen =his French savant= fair share of active duty in some of the recent European skirmishes.
 Now interested only in diplomacy, =he French savant= has brokered many deals between the French and other European interests; ensuring that France has a seat at the European table.
 
-**Rae Haborlian** (Female Spouse) \
+**Rae Haborlian** \
 Willbur's Cambridge educated wife, she built a chess-playing engine when she was only fourteen years old.
 She abandoned a promising career in the engine-making arts behind to live in Wilbur's shadow as British customs only allow for one genius per household.
 She has stayed with her husband and supported him through the years of poverty, as well as the succeeding years filled with scandalous rumours implying adultery. 
@@ -54,13 +49,11 @@ She has stayed with her husband and supported him through the years of poverty, 
 Assistant and protégée to Wilbur, this prodigy arose from humble beginnings to secure multiple scholarships and finally ended up as permanent researcher on many of Wilbur's projects, where she has been diligently documenting and publishing his work as quick as he could produce it.
 Said to have been orphaned during the drug turf-wars of the London slums, she received shelter in a Luddite-funded orphanage in North London where she develop a liking in the engineering arts, despite their protests and her training in the classics.
 
-**Earle Welter** (Male CEO) \
-**Jane Welter** (Female CEO) \
+**=CEO=**  \
 Chief Executive Officer of British Trans-continental Defence (BTD) Ltd.
 BTD Ltd. is partly owned by the Ryan family, and specialises in copper communications cables and defence communications technology. =CEO= has grown the company eight-fold during =his CEO= tenure, but they have been accused of selling to both sides of the Anglo-Franco aggression. Whoever loses in a hypothetical war between these two industrial superpowers, BTD Ltd. is sure to have a winning balance sheet.
 
-**Retired Chief Inspector Mycroft Windsor** (Male inspector) \
-**Retired Chief Inspector Verla Windsor**  (Female inspector) \
+**=Inspector=**  (Female inspector) \
 Negotiations consultant and mediator, used to work for Scotland Yard.
 A self-proclaimed pacifist, =he Inspector= is widely respected and regular attendee at any events where national and international matters are discussed and negotiated and is said by many to be the sole proprietor of peace during recent times where nations have often been at each other's throats.
 
