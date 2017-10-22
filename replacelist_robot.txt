@@ -13,16 +13,16 @@
 =Narco heir=:Hazel Ryan
 
 
-=Narco Sicario=:Mortimer Sicario
-=he Narco Sicario=:he
-=his Narco Sicario=:his
-=him Narco Sicario=:him
-=man Narco Sicario=:man
-=name only Narco Sicario=:Mortimer
+=Narco Sicario=:Odelia Sicario
+=he Narco Sicario=:she
+=his Narco Sicario=:her
+=him Narco Sicario=:her
+=man Narco Sicario=:woman
+=name only Narco Sicario=:Odelia
 
-=French savant=:Arnaud Lepetit
-=his French savant=:his
-=he French savant=:he
+=French savant=:Sophie Lepetit
+=his French savant=:her
+=he French savant=:she
 
 =Spouse=:Rae Haborlian
 =she Spouse=:she

@@ -8,7 +8,7 @@ Every industry has been affected for the better by our knowledge machinery, and 
 The demand for computing machines has lead to an exponential increase in the demand for fine-precision gears and components. Nowhere are gears better manufactured than in Britain, and our nation will soon have the ability to mass produce near-identical copies of the series GBG gearsets. It has been said that the Empire is built on cotton, this newspaper posits that it is kept running by precision gears.
 
 # Historic meeting coming to Maidstone
-Doom prophets, naysayers, and Luddites would have us believe that our economy will lead to world-wide war on an industrial scale, but the English Gentleman continues to enjoy great quality of life. This newspaper has learned that there will be an unofficial meeting between the cardinal minds behind our economy on DATEDATE at 4 Thornhill Mews Cross Street, Maidstone, ME14 2SP. The meeting will no doubt further build Anglo-Franco relationships and set a course for the next industrial leap. We have compiled biographies of all the members who shall be present.
+Doom prophets, naysayers, and Luddites would have us believe that our economy will lead to world-wide war on an industrial scale, but the English Gentleman continues to enjoy great quality of life. This newspaper has learned that there will be an unofficial meeting between the cardinal minds behind our economy on Guy Fawkes night, 5 November at 4 Thornhill Mews Cross Street, Maidstone, ME14 2SP. The meeting will no doubt further build Anglo-Franco relationships and set a course for the next industrial leap. We have compiled biographies of all the members who shall be present.
 
 **Wilbur Haborlian** \
 The man whose influence on the industrial age has been second only to that of the great engine-maker, Charles Babbage. Being the nation's finest gear maker, Wilbur has not only near-perfected the precision and tolerance, but he is said to be working on a mass-production system that will churn out gears by the thousands.
@@ -17,7 +17,7 @@ Thanks to discovery and patronage from the Ryan family, Wilbur was able to achie
 Despite all the yellow-press rumours of adulterous nature, Wilbur has been married all his life to his wife, lady Rae Haborlian.
 
 **=Luddite=** \
-Self-described old-money =gentleman Luddite=, =Luddite= is mostly known as a member the now-defunct House of Lords. Not one to shy away from public life, =he Luddite= acts as the unofficial leader of the Luddites, who continue to preach their anti-engineering, moral and religious message.
+Self-described old-money =gentleman Luddite=, =Luddite= is mostly known as a member of the now-defunct House of Lords. Not one to shy away from public life, =he Luddite= acts as the unofficial leader of the Luddites, who continue to preach their anti-engineering, moral and religious message.
 While mostly regarded as harmless, the Luddites still control substantial wealth as a group, and their nationalistic propaganda is thought by many to be populist pandering; the Luddites have seen their wealth multiplied many times by our Industrial Revolution.
 Hence, they are still consulted on important matters of economy and state, and =Luddite= is sure to be seen at any meetings of importance.
 
