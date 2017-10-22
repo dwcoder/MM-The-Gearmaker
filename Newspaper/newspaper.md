@@ -24,7 +24,7 @@ Hence, they are still consulted on important matters of economy and state, and =
 
 **=PM=** \
 =His PM= excellency the Prime Minister and Chair of the Royal Society of Engineering.
-Cambridge educated, Sir Doctor =PM= successfully lead Britain through the transition to constitutional technocracy. While still derided for =his PM= inability to identify and develop Wilbur Haborlian, one must admit the Prime Minister has had far more successes than failures in =his PM= tenure.
+Cambridge educated, =PM= successfully lead Britain through the transition to constitutional technocracy. While still derided for =his PM= inability to identify and develop Wilbur Haborlian, one must admit the Prime Minister has had far more successes than failures in =his PM= tenure.
 Inventor of the fighting system used by the British Armed forces, published in =his PM= text "Scientific Bayonetting, a Field Guide to Biological Deconstruction".
 
 
