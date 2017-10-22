@@ -45,7 +45,7 @@ Willbur's Cambridge educated wife, she built a chess-playing engine when she was
 She abandoned a promising career in the engine-making arts behind to live in Wilbur's shadow as British customs only allow for one genius per household.
 She has stayed with her husband and supported him through the years of poverty, as well as the succeeding years filled with scandalous rumours implying adultery. 
 
-**Lorraine Stoker** (Female Assistant) \
+**Lorraine Stoker** \
 Assistant and protégée to Wilbur, this prodigy arose from humble beginnings to secure multiple scholarships and finally ended up as permanent researcher on many of Wilbur's projects, where she has been diligently documenting and publishing his work as quick as he could produce it.
 Said to have been orphaned during the drug turf-wars of the London slums, she received shelter in a Luddite-funded orphanage in North London where she develop a liking in the engineering arts, despite their protests and her training in the classics.
 
@@ -53,7 +53,7 @@ Said to have been orphaned during the drug turf-wars of the London slums, she re
 Chief Executive Officer of British Trans-continental Defence (BTD) Ltd.
 BTD Ltd. is partly owned by the Ryan family, and specialises in copper communications cables and defence communications technology. =CEO= has grown the company eight-fold during =his CEO= tenure, but they have been accused of selling to both sides of the Anglo-Franco aggression. Whoever loses in a hypothetical war between these two industrial superpowers, BTD Ltd. is sure to have a winning balance sheet.
 
-**=Inspector=**  (Female inspector) \
+**=Inspector=**  \
 Negotiations consultant and mediator, used to work for Scotland Yard.
 A self-proclaimed pacifist, =he Inspector= is widely respected and regular attendee at any events where national and international matters are discussed and negotiated and is said by many to be the sole proprietor of peace during recent times where nations have often been at each other's throats.
 
