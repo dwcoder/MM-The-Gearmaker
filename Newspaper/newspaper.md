@@ -29,7 +29,7 @@ Inventor of the fighting system used by the British Armed forces, published in =
 
 
 **=Narco heir=** \
-The the heir to the mighty Ryan fortune; a multinational umbrella corporation that owns companies in nearly every field. It has been speculated that the deceased Ryan patriarch, George Alexander Ryan, amassed his fortune by being the biggest Opium smuggler in Europe, but this has never been proven.
+The the =heir Narco heir= to the mighty Ryan fortune; a multinational umbrella corporation that owns companies in nearly every field. It has been speculated that the deceased Ryan patriarch, George Alexander Ryan, amassed his fortune by being the biggest Opium smuggler in Europe, but this has never been proven.
 The family have expanded to more lucrative industries in recent years, like industrial warfare equipment.
 
 **=Narco Sicario=** \
@@ -41,33 +41,33 @@ Representing the newly-independent France, =French savant= is a retired french s
 Now interested only in diplomacy, =he French savant= has brokered many deals between the French and other European interests; ensuring that France has a seat at the European table.
 
 **Rae Haborlian** \
-Willbur's Cambridge educated wife, she built a chess-playing engine when she was only fourteen years old.
+Willbur's Cambridge educated wife. She built a chess-playing engine when she was only fourteen years old.
 She abandoned a promising career in the engine-making arts behind to live in Wilbur's shadow as British customs only allow for one genius per household.
 She has stayed with her husband and supported him through the years of poverty, as well as the succeeding years filled with scandalous rumours implying adultery. 
 
 **Lorraine Stoker** \
 Assistant and protégée to Wilbur, this prodigy arose from humble beginnings to secure multiple scholarships and finally ended up as permanent researcher on many of Wilbur's projects, where she has been diligently documenting and publishing his work as quick as he could produce it.
-Said to have been orphaned during the drug turf-wars of the London slums, she received shelter in a Luddite-funded orphanage in North London where she develop a liking in the engineering arts, despite their protests and her training in the classics.
+Said to have been orphaned during the drug turf-wars of the London slums, she received shelter in a Luddite-funded orphanage in North London where she developed a liking in the engineering arts, despite their protests and her training in the classics.
 
 **=CEO=**  \
 Chief Executive Officer of British Trans-continental Defence (BTD) Ltd.
-BTD Ltd. is partly owned by the Ryan family, and specialises in copper communications cables and defence communications technology. =CEO= has grown the company eight-fold during =his CEO= tenure, but they have been accused of selling to both sides of the Anglo-Franco aggression. Whoever loses in a hypothetical war between these two industrial superpowers, BTD Ltd. is sure to have a winning balance sheet.
+The company is partly owned by the Ryan family and specialises in copper communications cables and defence communications technology. =CEO= has grown the company eight-fold during =his CEO= tenure, but they have been accused of selling to both sides of the Anglo-Franco aggression. Whoever loses in a hypothetical war between these two industrial superpowers, BTD Ltd. is sure to have a winning balance sheet.
 
 **=Inspector=**  \
 Negotiations consultant and mediator, used to work for Scotland Yard.
-A self-proclaimed pacifist, =he Inspector= is widely respected and regular attendee at any events where national and international matters are discussed and negotiated and is said by many to be the sole proprietor of peace during recent times where nations have often been at each other's throats.
+A self-proclaimed pacifist; =he Inspector= is widely respected and regular attendee at any events where national and international matters are discussed and negotiated, and is said by many to be the sole proprietor of peace during recent times where nations have often been at each other's throats.
 
 # Letters to the editor
 
 Dear Sir
 
-*This newspaper is quick to point out the benefits of the Godless march towards Mechanisation, but it ignores the good British people who are either being replaced by machines, or the scourge filtering through our borders on the beastly, newfangled steel passenger ships with their trailing black plume. Very soon the British way of life will be destroyed, and nothing will remain but bastardised remnants of the classes that once formed the bastion of our great Empire.*
+*This newspaper is quick to point out the benefits of the Godless march towards Mechanisation, but it ignores the good British people who are either being replaced by machines, or the scourge filtering through our borders on the beastly, newfangled steel passenger ships with their trailing black plume. Very soon the British way of life will be destroyed and nothing will remain but bastardised remnants of the classes that once formed the bastion of our great Empire.*
 
 Yours, Luddite for Life
 
 Dear Sir
 
-*In response to the article extolling the virtues of our Mechanically advanced society --- which received criticisms from our Luddite brethren as usual --- I would like to state my support for your thesis that Britons are better off. Take, for example, the recent advances in the manufacturing of soap. Thanks to advanced detergents, the average British household is spending considerably less time scrubbing their their pots, their pans, and their pantaloons. This fact is quickly lost on the Luddites, whose classes had these duties performed by servants.*
+*In response to the article extolling the virtues of our Mechanically advanced society --- which received criticisms from our Luddite brethren as usual --- I would like to state my support for your thesis that Britons are better off. Take, for example, the recent advances in the manufacturing of soap. Thanks to advanced detergents, the average British household is spending considerably less time scrubbing their pots, their pans, and their pantaloons. This fact is quickly lost on the Luddites, whose classes had these duties performed by servants.*
 
 Yours faithfully, John Q. Public.
 

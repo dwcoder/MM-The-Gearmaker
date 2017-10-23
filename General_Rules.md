@@ -9,9 +9,9 @@ Below are your speaking notes and clues.
 These include information about your character, as well as your relationship with other characters.
 During the night, a murder will take place, after which each of the characters will be informally cross examined, taking turns.
 
-After the cross-examinations, all the guests will sit down for a dinner during which they will try to figure out who the murderer is.
+After the cross examinations, all the guests will sit down for a dinner during which they will try to figure out who the murderer is.
 
-There is no set script, but during the cross examination some of the other characters will accuse you of things, or ask you questions. Characters are free to revisit questions and clarify statements after a cross-examination.
+There is no set script, but during the cross examination some of the other characters will accuse you of things, or ask you questions. Characters are free to revisit questions and clarify statements after a cross examination.
 Act as you would if you are locked in a room with a killer; with respect, but suspicion.
 
 You should give them the answers below, and you should respond accordingly.
@@ -28,8 +28,8 @@ You are, however, welcome to ask general questions like "where were you at the t
 You may also ask any questions that come to mind.
 
 ## In summary:
-**During your own cross examination:**, turn to the pages in your booklet giving information about your own cross examination, and respond accordingly.
-**During the cross examination of oters::**, turn to the pages in your booklet giving information about the other characters, and respond accordingly. Be sure to reveal information and level accusations as indicated. 
+**During your own cross examination:** turn to the pages in your booklet giving information about your own cross examination, and respond accordingly.
+**During the cross examination of others:**, turn to the pages in your booklet giving information about the other characters, and respond accordingly. Be sure to reveal information and level accusations as indicated.
 
 If asked to introduce yourself, you can read the bio given in the newspaper.
 
