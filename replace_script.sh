@@ -27,8 +27,6 @@ function do_replacings() {
 }
 
 
-
-
 folders="Characterbooks
 Newspaper"
 
@@ -66,9 +64,24 @@ do
 
 done
 
+
+
+
 cd $workdir
+# Make the script to rename the files
+cp pdf_rename_script_raw.txt pdf_rename_script_generated.sh
+do_replacings pdf_rename_script_generated.sh
+chmod +x pdf_rename_script_generated.sh
+
+# Run the pdf rename script inside the characterbooks folder
+echo
+echo Renaming pdf files of characterbooks...
+echo
+cd "$workdir"/generated/Characterbooks
+$workdir/pdf_rename_script_generated.sh
 
 
+cd $workdir
 # Test to see whether there are any ones we missed:
 echo
 echo
@@ -77,6 +90,7 @@ echo
 find ./generated -iname "*.md" | xargs grep --color=always -n -E "=[^=]*="
 echo
 echo Specify values for these values in the 'replacelist_robot.txt' file
+
 
 find ./generated -iname "*.md" | xargs rm
 

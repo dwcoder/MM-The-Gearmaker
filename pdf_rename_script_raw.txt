@@ -1,0 +1,10 @@
+#!/bin/bash
+
+mv Luddite.pdf "=Luddite=.pdf"
+mv PM.pdf "=PM=.pdf"
+mv Narco_heir.pdf "=Narco heir=.pdf"
+mv Narco_Sicario.pdf "=Narco Sicario=.pdf"
+mv French_savant.pdf "=French savant=.pdf"
+mv Spouse.pdf "=Spouse=.pdf"
+mv Assistant.pdf "=Assistant=.pdf"
+mv CEO.pdf "=CEO=.pdf"

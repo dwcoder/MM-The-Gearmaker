@@ -1,18 +1,36 @@
-=Luddite=: Graham (Male)
+Graham (Male)
+=Luddite=
+Luddite
 
-=PM=: Dickon (Male)
+Dickon (Male)
+=PM=
+PM
 
-=Narco heir=: Joanne (Female)
+Joanne (Female)
+=Narco heir=
+Narco heir
 
-=Narco Sicario=: Liz (female)
+Liz (female)
+=Narco Sicario=
+Narco Sicario
 
-=French savant=: (Nita) Female
+Nita (Female)
+=French savant=
+French savant
 
-=Spouse=: Nancy (female)
+Nancy (female)
+=Spouse=
+Spouse
 
-=Assistant=: Charley (female)
+Charley (female)
+=Assistant=
+Assistant
 
-=CEO=: Thomas (male)
+Thomas (male)
+=CEO=
+CEO
 
-=Inspector=: DW (male)
+DW (male)
+=Inspector=
+Inspector
 
