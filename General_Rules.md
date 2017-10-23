@@ -17,9 +17,15 @@ Act as you would if you are locked in a room with a killer; with respect, but su
 You should give them the answers below, and you should respond accordingly.
 You are not allowed to lie about any of the information below, and you _have_ to reveal the relevant information if prompted. You don't have to reveal information if you feel that you haven't been asked the relevant question.
 
-If you are asked something completely irrelevant, you are free to improvise an answer, as long as it doesn't create new relationships and intrigue (outside of that provided below) between characters and thus confuse the story. If you don't want to improvise an answer to an irrelevant question, respond with "I don't see how that is relevant".
+If you are asked something completely irrelevant, you are free to improvise an answer, as long as it doesn't create new relationships and intrigue (outside of that provided below) between characters and thus confuse the story. If you don't want to improvise an answer to an irrelevant question, respond with **"I don't see how that is relevant"**.
 
-During the cross examinations of the other characters, you will have questions and accusations to throw at them. There is no correct order, but make sure you do **ask all questions provided to you and reveal all the relevant information**. If you don't have specific questions for a character, you are also welcome to ask general questions like "where were you at the time" or try and suggest a motive.
+After your speaking notes, there will follow a list of the characters, in the order they will be interrogated.
+Under some character appears specific questions you should ask them.
+Make sure you **ask all questions provided to you and reveal all the relevant information**.
+There is no correct order in which the questions should be asked, so don't worry about waiting for a cue.
+If there is nothing under a character's name, it means you don't have any specific questions to ask or information to reveal.
+You are, however, welcome to ask general questions like "where were you at the time of the murder" or try and suggest a motive.
+You may also ask any questions that come to mind.
 
 ## In summary:
 **During your own cross examination:**, turn to the pages in your booklet giving information about your own cross examination, and respond accordingly.

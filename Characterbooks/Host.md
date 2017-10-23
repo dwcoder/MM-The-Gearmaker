@@ -16,4 +16,16 @@ You arrived after the murder happened, so it cannot be you. This isn't an opinio
 
 
 ## Make sure you point out the following during the cross examination (in addition to the things that your own character has to mention
-(This contains questions to ask other characters while they are being cross examined.)
+
+The characters have to be cross-examined in the following order:
+
+ * =Luddite=
+ * =PM=
+ * =Narco heir=
+ * =Narco Sicario=
+ * =French savant=
+ * =Spouse=
+ * =Assistant=
+ * =CEO=
+
+You don't have to be cross-examined yourself, as you arrived after the murder took place.
