@@ -42,7 +42,7 @@ Now interested only in diplomacy, =he French savant= has brokered many deals bet
 
 **Rae Haborlian** \
 Willbur's Cambridge educated wife. She built a chess-playing engine when she was only fourteen years old.
-She abandoned a promising career in the engine-making arts behind to live in Wilbur's shadow as British customs only allow for one genius per household.
+She abandoned a promising career in the engine-making arts to live in Wilbur's shadow, as British customs only allow for one genius per household.
 She has stayed with her husband and supported him through the years of poverty, as well as the succeeding years filled with scandalous rumours implying adultery. 
 
 **Lorraine Stoker** \
