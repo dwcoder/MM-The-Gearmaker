@@ -49,7 +49,7 @@ You hate =Narco heir=. Tell everyone that you were orphaned by the drug war, and
 
 ### =Narco Sicario=
 You are sure =Narco Sicario= has blood on =his Narco Sicario= hands, make a comment along this lines. Also mention that it wouldn't be unusual for =Narco Sicario= to "take care" of someone who disrespected the Ryan family, like in the *good old days* (say this last bit with contempt).
-He will also know how to handle a knife.
+=He Narco Sicario= will also know how to handle a knife.
 
 ### =French savant=
 

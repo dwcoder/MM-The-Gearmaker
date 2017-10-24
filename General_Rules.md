@@ -29,7 +29,7 @@ You may also ask any questions that come to mind.
 
 ## In summary:
 **During your own cross examination:** turn to the pages in your booklet giving information about your own cross examination, and respond accordingly.
-**During the cross examination of others:**, turn to the pages in your booklet giving information about the other characters, and respond accordingly. Be sure to reveal information and level accusations as indicated.
+**During the cross examination of others:** turn to the pages in your booklet giving information about the other characters, and respond accordingly. Be sure to reveal information and level accusations as indicated.
 
 If asked to introduce yourself, you can read the bio given in the newspaper.
 

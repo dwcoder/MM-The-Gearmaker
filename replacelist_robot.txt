@@ -16,6 +16,7 @@
 
 =Narco Sicario=:Odelia Sicario
 =he Narco Sicario=:she
+=He Narco Sicario=:She
 =his Narco Sicario=:her
 =him Narco Sicario=:her
 =man Narco Sicario=:woman
