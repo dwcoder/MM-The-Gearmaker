@@ -28,7 +28,8 @@ function do_replacings() {
 
 
 folders="Characterbooks
-Newspaper"
+Newspaper
+Readme"
 
 rm -rf generated
 mkdir generated
