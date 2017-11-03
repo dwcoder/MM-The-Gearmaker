@@ -29,7 +29,7 @@ Inventor of the fighting system used by the British Armed forces, published in =
 
 
 **=Narco heir=** \
-The the =heir Narco heir= to the mighty Ryan fortune; a multinational umbrella corporation that owns companies in nearly every field. It has been speculated that the deceased Ryan patriarch, George Alexander Ryan, amassed his fortune by being the biggest Opium smuggler in Europe, but this has never been proven.
+The =heir Narco heir= to the mighty Ryan fortune; a multinational umbrella corporation that owns companies in nearly every field. It has been speculated that the deceased Ryan patriarch, George Alexander Ryan, amassed his fortune by being the biggest Opium smuggler in Europe, but this has never been proven.
 The family have expanded to more lucrative industries in recent years, like industrial warfare equipment.
 
 **=Narco Sicario=** \
