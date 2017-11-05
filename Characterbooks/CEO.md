@@ -15,6 +15,8 @@ You have always wanted to hire Wilbur to come and work for your company, but he 
 Your alibi is that you were sitting in the bedroom, reading. No one can corroborate this.
 
 Yes, Wilbur was killed with your knife. But you can point out that you know nothing about knife fighting (this is your biggest defence; you didn't have the means to kill him yourself). You weren't a scientist and you have never read the Prime Minister's knife-fighting manual. The weapon is ceremonial, and you didn't even know it was sharp enough to hurt someone. You've always used it as an expensive letter opener. Whoever killed Wilbur must have really known their stuff.
+You left the knife in your coat, on the coat rack.
+Anyone could have gotten it.
 
 You tried to recruit Wilbur, and it is a shame that he never joined.
 He always insisted on publishing all his works open-source.
