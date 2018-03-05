@@ -65,6 +65,25 @@ do
 
 done
 
+cd $workdir
+
+# Make the placements
+foldername="Placecards"
+cp -r $foldername generated/$foldername
+echo cd "$workdir"/generated/$foldername
+cd "$workdir"/generated/$foldername
+for file in *.tex
+do
+
+    basename=${file%.*}
+
+    echo "------------ ${file##*/} ------------"
+    do_replacings $file
+
+    echo pandoc -f markdown -t latex -o "$basename".pdf $file
+    pdflatex $file
+
+done
 
 
 

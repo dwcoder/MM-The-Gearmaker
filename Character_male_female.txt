@@ -1,3 +1,9 @@
+# Character possibilities
+# Below is a list of all the possible characters and their possible male/female forms
+# Some of the characters (like the victim and the spouse) have to have a pre-determined gender
+# The other characters can be either gender
+# Their recommended names appear below.
+
 =Victim=
 Wilbur Haborlian
 
