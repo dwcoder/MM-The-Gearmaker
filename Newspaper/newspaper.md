@@ -1,3 +1,7 @@
+---
+newspaper_pretend_date: 21 Aug
+...
+
 # Special review issue
 
 Since Charles Babbage completed his difference engine in 1844, which was shortly followed by his analytical engine, the civilised world rapidly underwent a mechanical revolution. Relieving the English Gentleman of the tedious calculations which accompany industrial endeavours, man has been given the freedom to expend intellectual capacity on more lofty endeavours.
