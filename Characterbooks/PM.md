@@ -32,7 +32,7 @@ Also, why would you murder Wilbur yourself?
 ### The Victim
 
 ### =Luddite=
-You can back up the claim that =Luddite= was never alone in a room with Wilbur, =he Luddite= hated Wilbur so much that he aggressively avoided him.
+You can back up the claim that =Luddite= was never alone in a room with Wilbur, =he Luddite= hated Wilbur so much that =he Luddite= aggressively avoided him.
 
 ### =PM=
 
@@ -43,7 +43,7 @@ You can back up the claim that =Luddite= was never alone in a room with Wilbur, 
 
 ### =French savant=
 During this interrogation, it will become public that the French were trying to recruit Wilbur. While you were already aware of this through your spying with =CEO=, this revelation angers you. The scoundrel! Will the French stop at nothing? Surely it was them who killed Wilbur.
-Act very hostile towards the French savant, and heckle him if he says negative things about Britain.
+Act very hostile towards the French savant, and heckle =him French savant= if =he French savant= says negative things about Britain.
 
 ### =Spouse=
 You can confirm that you were with =her Spouse= at the time of the murder, in the garden.

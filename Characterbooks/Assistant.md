@@ -23,11 +23,11 @@ When asked whether you were sleeping with Wilbur, you can truthfully deny it. Yo
 
 When asked whether you studied the Prime Minister's knife-fighting manual, lie and say no.
 
-If someone asks you about the pamphlet they found with Luddite materials on it, say it was handed to you on the street. If the Luddite accuses you of being a two-face, tell him that you are forever grateful for the education they gave you; that you still share their passion, not their disdain for all things mechanical.
+If someone asks you about the pamphlet they found with Luddite materials on it, say it was handed to you on the street. If the Luddite accuses you of being a two-face, tell =him Luddite= that you are forever grateful for the education they gave you; that you still share their passion, not their disdain for all things mechanical.
 
 When =Luddite= accuses you of abandoning them, tell =him Luddite= that the machines are what is best for England, it is the only way to ascertain our prosperity as a nation. You know =he Luddite= will not see it this way, but it is the hard truth that we must all accept.
 
-The Prime Minster will ask whether you knew of the plans of the French. You will have to say yes, otherwise it will look suspicious. Tell him that Wilbur told you about their offer of refuge, but that Wilbur was still making up his mind.
+The Prime Minster will ask whether you knew of the plans of the French. You will have to say yes, otherwise it will look suspicious. Tell =him PM= that Wilbur told you about their offer of refuge, but that Wilbur was still making up his mind.
 
 ## Notes for cross examination of other characters
 (This contains questions to ask other characters while they are being cross examined.)
@@ -40,7 +40,7 @@ You can back up the claim that =Luddite= was never alone in a room with Wilbur, 
 ### =PM=
 Accuse the Prime Minister of colluding with =CEO= to spy on Wilbur. Say you saw their private-sector agents following you, listening in on conversations, and going through your trash.
 
-Also accuse the Prime Minister of making it hard for Wilbur to get funding. If it wasn't for his jealousy, Wilbur would have never had to resort to taking money from the Ryans, nor would he have had to entertain the traitorous notions of the French.
+Also accuse the Prime Minister of making it hard for Wilbur to get funding. If it wasn't for =his PM= jealousy, Wilbur would have never had to resort to taking money from the Ryans, nor would he have had to entertain the traitorous notions of the French.
 
 ### =Narco heir=
 You hate =Narco heir=. Tell everyone that you were orphaned by the drug war, and people like =Narco heir= benefited directly from the violence. 

@@ -13,7 +13,7 @@ The French have been trying to recruit Wilbur to defect and come over to their s
 
 Your alibi: During the time of the murder, you were walking around outside. You were alone, so no one can back this up, unfortunately. No one saw you enter or leave.
 
-If the Prime Minister is hostile towards you, just ignore him. You won't stoop to his level.
+If the Prime Minister is hostile towards you, just ignore =him PM=. You won't stoop to =his PM= level.
 
 Wilbur's wife will point out that you were trying to recruit Wilbur.
 She will suggest you killed him as you thought he would reject your offer.
