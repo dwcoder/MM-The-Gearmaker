@@ -4,11 +4,11 @@
 =his Luddite=:him
 =gentleman Luddite=:gentleman
 
-=PM=:Sir Doctor Conrad Borthwell
-=him PM=:him
-=his PM=:his
-=His PM=:His
-=he PM=:he
+=PM=:Sir Doctor Beula Borthwell
+=him PM=:her
+=his PM=:her
+=His PM=:Her
+=he PM=:she
 
 =Narco heir=:Hazel Ryan
 =heir Narco heir=:heiress
@@ -24,6 +24,7 @@
 
 =French savant=:Sophie Lepetit
 =his French savant=:her
+=him French savant=:her
 =he French savant=:she
 
 =Spouse=:Rae Haborlian
