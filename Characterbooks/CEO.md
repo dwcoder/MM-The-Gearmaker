@@ -44,7 +44,7 @@ A service they were paying for; espionage is good business.
 ### =PM=
 You corroborated with the CEO to spy on Wilbur.
 You found out that the French had contacted Wilbur and were offering him a research position, with practically unlimited funding.
-The Prime minister wasn't happy about this, and due to his earlier decision to block many of Wilbur's requests for funding. The Prime Minster was in an awkward position, he would either have to admit that he was wrong to reject Wilbur's initial requests, or keep on blocking him. Both of these would be politically unpopular. Perhaps it would all be better if Wilbur went away?
+The Prime minister wasn't happy about this, and due to =his PM= earlier decision to block many of Wilbur's requests for funding, =he PM= was in an awkward position. =He PM= would either have to admit that =he PM= was wrong to reject Wilbur's initial requests, or keep on blocking him. Both of these would be politically unpopular. Perhaps it would all be better if Wilbur went away?
 
 
 ### =Narco heir=
