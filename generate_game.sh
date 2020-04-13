@@ -3,8 +3,8 @@
 # Read all the lines in replacelist_robot.txt and use them to construct sed strings
 
 workdir=$(pwd)
-
-abs_replace_list_file=$workdir/replacelist_robot.txt
+output_folder='_generated_game'
+abs_replace_list_file=$workdir/pronouns_to_replace.txt
 
 function do_replacings() {
     filename=$1
@@ -31,24 +31,24 @@ folders="Characterbooks
 Newspaper
 Readme"
 
-rm -rf generated
-mkdir generated
+rm -rf $output_folder 
+mkdir $output_folder
 
 for foldername in $folders
 do
-    cp -r $foldername generated/$foldername
+    cp -r $foldername $output_folder/$foldername
 done
 
 
 # Put the general rules in the character books folder, so it can be included
-pandoc -f markdown -t latex -o ./generated/Characterbooks/rules.tex General_Rules.md
+pandoc -f markdown -t latex -o ./$output_folder/Characterbooks/rules.tex General_Rules.md
 
 
 
 for foldername in $folders
 do
-    echo cd "$workdir"/generated/$foldername
-    cd "$workdir"/generated/$foldername
+    echo cd "$workdir"/$output_folder/$foldername
+    cd "$workdir"/$output_folder/$foldername
     for file in *.md
     do
 
@@ -67,11 +67,11 @@ done
 
 cd $workdir
 
-# Make the placements
+# Make the placemats
 foldername="Placecards"
-cp -r $foldername generated/$foldername
-echo cd "$workdir"/generated/$foldername
-cd "$workdir"/generated/$foldername
+cp -r $foldername $output_folder/$foldername
+echo cd "$workdir"/$output_folder/$foldername
+cd "$workdir"/$output_folder/$foldername
 for file in *.tex
 do
 
@@ -80,8 +80,7 @@ do
     echo "------------ ${file##*/} ------------"
     do_replacings $file
 
-    echo pandoc -f markdown -t latex -o "$basename".pdf $file
-    pdflatex $file
+    pdflatex $file > pdflatex.log
 
 done
 
@@ -96,22 +95,39 @@ chmod +x pdf_rename_script_generated.sh
 # Run the pdf rename script inside the characterbooks folder
 echo
 echo Renaming pdf files of characterbooks...
-echo
-cd "$workdir"/generated/Characterbooks
+cd "$workdir"/$output_folder/Characterbooks
 $workdir/pdf_rename_script_generated.sh
+echo Done
+echo
+
+
+# Copy the art assets to the $output_folder
+cd $workdir
+echo
+echo Copy the evidence art assets to $output_folder
+echo
+mkdir $output_folder/Evidence_pieces
+cp art_assets/Evidence_piece_1.pdf $output_folder/Evidence_pieces
+
+
 
 
 cd $workdir
 # Test to see whether there are any ones we missed:
 echo
 echo
+echo -------------------------------------------------------------------------
 echo The following are some missed replacements:
 echo
-find ./generated -iname "*.md" | xargs grep --color=always -n -E "=[^=]*="
+find ./$output_folder -iname "*.md" | xargs grep --color=always -n -E "=[^=]*="
 echo
-echo Specify values for these values in the 'replacelist_robot.txt' file
+echo Specify values for these values in '$abs_replace_list_file'
+echo -------------------------------------------------------------------------
+echo All done
 
 
-find ./generated -iname "*.md" | xargs rm
+find ./$output_folder -iname "*.md" | xargs rm
+
+
 
 

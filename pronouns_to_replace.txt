@@ -4,23 +4,24 @@
 =his Luddite=:him
 =gentleman Luddite=:gentleman
 
-=PM=:Sir Doctor Beula Borthwell
+=PM=:Lady Doctor Beula Borthwell
 =him PM=:her
 =his PM=:her
 =His PM=:Her
 =he PM=:she
+=He PM=:She
 
-=Narco heir=:Hazel Ryan
-=heir Narco heir=:heiress
+=Narco heir=:Dominique Ryan
+=heir Narco heir=:heir
 
 
-=Narco Sicario=:Odelia Sicario
-=he Narco Sicario=:she
-=He Narco Sicario=:She
-=his Narco Sicario=:her
-=him Narco Sicario=:her
-=man Narco Sicario=:woman
-=name only Narco Sicario=:Odelia
+=Narco Sicario=:Mortimer Sicario
+=he Narco Sicario=:he
+=He Narco Sicario=:He
+=his Narco Sicario=:his
+=him Narco Sicario=:him
+=man Narco Sicario=:man
+=name only Narco Sicario=:Mortimer
 
 =French savant=:Sophie Lepetit
 =his French savant=:her

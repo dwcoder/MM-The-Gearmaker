@@ -9,13 +9,22 @@ It is your responsibility to ensure that the evening progresses, and that all th
 
 Make sure the participants understand that they need to establish a means, motive, and opportunity if they want to accuse someone of murder (if they get all the clues, there is just one answer that makes sense).
 
-During the evening, you should discover the body of Wilbur Haborlian. According to your opinion as an inspector, you believe he was killed about an hour ago, with a knife that appears to belong to the CEO.
 
 
 ## Preparation to be done before the event:
 
 Leave a dagger nearby the body, with the BTD logo on it (wipe it down so there aren't any fingerprints on it).
 Prepare a "body" that can be searched. This can be as simple as putting a bunch of pillows on the ground with a sheet over them. Near the body, set up a place that can act as the vitcim's workbench, with some books and tools on it. Leave the Luddite propaganda on this bench.
+
+
+## During the evening, at start of the event
+
+You should discover the body of Wilbur Haborlian. According to your opinion as an inspector:
+
+ - you believe he was killed *about an hour ago*,
+ - he was killed with the famous ceremonial knife that belongs to the CEO, and the wound was very *scientific* in nature.
+ - Point out the Luddite propaganda, if no one discovers it.
+
 
 ## How to respond to cross examination
 You arrived after the murder happened, so it cannot be you. This isn't an opinion, it is a fact.

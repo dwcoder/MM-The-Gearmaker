@@ -1,35 +1,36 @@
-Sid Pavern (male)
+<Person 1>
 =Luddite=
 Luddite
 
-Hannah Elsabagh (female)
+<Person 2>
 =PM=
 PM
 
-Anne-Marie Blakey (female)
+<Person 3>
 =Narco heir=
 Narco heir
 
-Maxine Neal (female)
+<Person 4>
 =Narco Sicario=
 Narco Sicario
 
-Nita (Female)
+<Person 5>
 =French savant=
 French savant
 
-Shrina Mayur (female)
+<Person 6>
 =Spouse=
 Spouse
 
-Melanie Mat (female)
+<Person 7>
 =Assistant=
 Assistant
 
-Kelvin Gwaruka (male)
+<Person 8>
 =CEO=
 CEO
 
+<Person 9>
 =Inspector=
 Inspector
 

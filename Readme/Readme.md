@@ -12,7 +12,7 @@ This character is not part of the main story, but he/she can still partake in th
 
 If there are only 8 people, the host can play the character of
 the Luddite (=Luddite=) or the spouse (=Spouse=) while also playing the host.
-If you are the host, do not read any of the character books as it might reveal the mystery, robbing you of the opportunity to solve it yourself.
+If you are the host, do not read any of the *other* character books as it might reveal the mystery, robbing you of the opportunity to solve it yourself.
 
 ## Rules and format of the game
 The are also explained in each of the character booklets, as well as in the character booklet titled "Host.pdf" which you, as the host, should read immediately after this document.

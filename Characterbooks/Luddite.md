@@ -16,7 +16,7 @@ You are of the House of Lords, but that organisations is merely a shadow of its 
 
 You didn't kill Wilbur, but good riddance, it is a good thing he is dead. Be very open about your disdain for him and his new-fangled, liberal, Marxist, commie machines. It was putting a lot of good Britons out of a job.
 
-In fact, you hated Wilbur so much that you ensured to never be in a room with him. Whenever he would enter the room, you would leave it, and the prime minister and Wilbur's assistant can attest to this --- ask them.
+In fact, you hated Wilbur so much that you ensured to never be in a room with him. Whenever he would enter the room, you would leave it, and the prime minister and Wilbur's assistant can attest to this --- ask them. During the time of the murder, you were alone, in the study (no one can corroborate this).
 
 You can also point out that you are an old, scholarly man who doesn't know the first thing about weapons handling. You always firmly believed that the pen is mightier than the sword, and thus you used your pen, through propaganda, to reprimand Wilbur and his blasphemous science.
 

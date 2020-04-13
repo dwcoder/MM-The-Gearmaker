@@ -3,8 +3,8 @@
 # Read all the lines in replacelist_robot.txt and use them to construct sed strings
 
 workdir=$(pwd)
-
-abs_replace_list_file=$workdir/replacelist_robot.txt
+output_folder='_generated_game'
+abs_replace_list_file=$workdir/pronouns_to_replace.txt
 
 function do_replacings() {
     filename=$1
@@ -23,10 +23,16 @@ function do_replacings() {
             echo sed -i 's/'"$to_replace"'/'"$replace_with"'/g' "$filename"
             sed -i 's/'"$to_replace"'/'"$replace_with"'/g' "$filename"
 
+
+
     done < $abs_replace_list_file
+
+    # Remove the (male) (female) in the brackets
+    echo sed -i 's/([^)]*)//g' "$filename"
+    sed -i 's/([^)]*)//g' "$filename"
 }
 
 
 
-cp "Character assign.txt" "generated/Character assign.txt"
-do_replacings "generated/Character assign.txt"
+cp "Character assign.txt" "$output_folder/Character assign.txt"
+do_replacings "$output_folder/Character assign.txt"

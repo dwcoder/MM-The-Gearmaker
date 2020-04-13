@@ -17,7 +17,7 @@ Act as you would if you are locked in a room with a killer; with respect, but su
 You should give them the answers below, and you should respond accordingly.
 You are not allowed to lie about any of the information below, and you _have_ to reveal the relevant information if prompted. You don't have to reveal information if you feel that you haven't been asked the relevant question.
 
-If you are asked something completely irrelevant, you are free to improvise an answer, as long as it doesn't create new relationships and intrigue (outside of that provided below) between characters and thus confuse the story. If you don't want to improvise an answer to an irrelevant question, respond with **"I don't see how that is relevant"**.
+If you are asked something completely irrelevant, you are free to improvise an answer, as long as it doesn't create new relationships and intrigue (outside of that provided below) between characters and thus confuse the story. If you don't want to improvise an answer to an irrelevant question, respond with **"I don't see how that is relevant"**. (When you hear other characters say this, you'll know your question is on the wrong path).
 
 After your speaking notes, there will follow a list of the characters, in the order they will be interrogated.
 Under some character appears specific questions you should ask them.
@@ -32,4 +32,6 @@ You may also ask any questions that come to mind.
 **During the cross examination of others:** turn to the pages in your booklet giving information about the other characters, and respond accordingly. Be sure to reveal information and level accusations as indicated.
 
 If asked to introduce yourself, you can read the bio given in the newspaper.
+
+You are encouraged to improvise and add flair to your character. You can even go slightly off-script. But remember: Don't add intrigue or relationships to the story outside of that prescribed here.
 
