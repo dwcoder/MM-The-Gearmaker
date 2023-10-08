@@ -6,11 +6,11 @@ To generate the game, complete the instructions in the following order:
 
 
 1. Assign the characters to the actual people in `character assign.txt`.
-2. Do all the replacements in the pronouns_and_replacments.txt. Use people's actual names to make things easier.
-3. Change the text in Newspaper.md to reflect the date and location (this is the invite)
-4. Run `generate_game.sh`.
-5. Run Character_assign.sh, which will create a file called `Character assign Generated.txt` with all the names of the participants
-6. The generated files are all in the "Generated" folder
+2. Do all the replacements in the `pronouns_and_replacments.txt`. Use people's actual names to make things easier. There are some defaults in there which you can run to generate a working game.
+3. Change the text in `Newspaper.md` to reflect the date and location (this is the invite)
+4. Run `generate_game.sh` in bash.
+5. The generated files are all in the `_generated_game` folder
+6. (Optional) Run `Character_assign.sh`, which will create a file called `Character assign Generated.txt` with all the names of the participants
 
 
 ## Requirements
