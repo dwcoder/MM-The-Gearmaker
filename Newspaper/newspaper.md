@@ -12,13 +12,13 @@ Every industry has been affected for the better by our knowledge machinery, and 
 The demand for computing machines has lead to an exponential increase in the demand for fine-precision gears and components. Nowhere are gears better manufactured than in Britain, and our nation will soon have the ability to mass produce near-identical copies of the series GBG gearsets. It has been said that the Empire is built on cotton, this newspaper posits that it is kept running by precision gears.
 
 # Historic meeting coming to London
-Doom prophets, naysayers, and Luddites would have us believe that our economy will lead to world-wide war on an industrial scale, but the English Gentleman continues to enjoy great quality of life. This newspaper has learned that there will be an unofficial meeting between the cardinal minds behind our economy on 11 April, 19h00 at the Tower of London. The meeting will no doubt further build Anglo-Franco relationships and set a course for the next industrial leap. Below we have compiled biographies of all the members who will be present.
+Doom prophets, naysayers, and Luddites would have us believe that our economy will lead to world-wide war on an industrial scale, but the English Gentleman continues to enjoy great quality of life. This newspaper has learned that there will be an unofficial meeting between the cardinal minds behind our economy on 11 April, 19h00 at the Tower of London. The meeting will no doubt further build Anglo-Franco relationships and set a course for the next industrial leap. Below we have compiled biographies of all the members who will be present for this two-day affair.
 
 **Wilbur Haborlian** \
 The man whose influence on the industrial age has been second only to that of the great engine-maker, Charles Babbage. Being the nation's finest gear maker, Wilbur has not only near-perfected the precision and tolerance, but he is said to be working on a mass-production system that will churn out gears by the thousands.
 The holder of 80 patents, Wilbur hails from humble beginnings and little is known of his upbringing in various foster families. Initially rejected by the Royal Society due to lack of educational pedigree, his techniques and successes speak for themselves.
 Thanks to discovery and patronage from the Ryan family, Wilbur was able to achieve great things.
-Despite all the yellow-press rumours of adulterous nature, Wilbur has been married all his life to his wife, lady Rae Haborlian.
+Despite all the yellow-press rumours of adulterous nature, Wilbur has been married all his life to his wife, lady =Spouse=.
 
 **=Luddite=** \
 Self-described old-money =gentleman Luddite=, =Luddite= is mostly known as a member of the now-defunct House of Lords. Not one to shy away from public life, =he Luddite= acts as the unofficial leader of the Luddites, who continue to preach their anti-engineering, moral and religious message.
@@ -44,12 +44,12 @@ The family have expanded to more lucrative industries in recent years, like indu
 Representing the newly-independent France, =French savant= is a retired french spy and intelligence official, who has seen =his French savant= fair share of active duty in some of the recent European skirmishes.
 Now interested only in diplomacy, =he French savant= has brokered many deals between the French and other European interests; ensuring that France has a seat at the European table.
 
-**Rae Haborlian** \
+**=Spouse=** \
 Willbur's Cambridge educated wife. She built a chess-playing engine when she was only fourteen years old.
 She abandoned a promising career in the engine-making arts to live in Wilbur's shadow, as British customs only allow for one genius per household.
-She has stayed with her husband and supported him through the years of poverty, as well as the succeeding years filled with scandalous rumours implying adultery. 
+She has stayed with her husband and supported him through the years of poverty, as well as the succeeding years filled with scandalous rumours.
 
-**Lorraine Stoker** \
+**=Assistant=** \
 Assistant and protégée to Wilbur, this prodigy arose from humble beginnings to secure multiple scholarships and finally ended up as permanent researcher on many of Wilbur's projects, where she has been diligently documenting and publishing his work as quick as he could produce it.
 Said to have been orphaned during the drug turf-wars of the London slums, she received shelter in a Luddite-funded orphanage in North London where she developed a liking in the engineering arts, despite their protests and her training in the classics.
 

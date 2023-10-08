@@ -11,7 +11,7 @@ The French have been trying to recruit Wilbur to defect and come over to their s
 
 ## How to respond to cross examination
 
-Your alibi: During the time of the murder, you were walking around outside. You were alone, so no one can back this up, unfortunately. No one saw you enter or leave.
+Your alibi: Between 9pm and 10pm, you were walking around outside. You briefly ran into =Spouse= and you shared some friendly words. She looked fine; not like someone who just committed a murder.
 
 If the Prime Minister is hostile towards you, just ignore =him PM=. You won't stoop to =his PM= level.
 
@@ -28,8 +28,6 @@ If fact, the main reason the French wanted to provide him with funding and shelt
 Wilbur was worth more to you alive, and if the English have any sense, they would realise it.
 There is really nothing more you can say about this matter. But if the English want to frame you for this crime, there will be hell to pay.
 
-
-
 ## Notes for cross examination of other characters
 (This contains questions to ask other characters while they are being cross examined.)
 
@@ -40,7 +38,7 @@ There is really nothing more you can say about this matter. But if the English w
 
 ### =PM=
 Point out to the Prime Minster that =he PM= saw Wilbur's talents way too late, and ask whether it was embarrassing when =he PM= offered Wilbur a knighthood which he then rejected.
-Say that the British class system is to blame for Wilbur's bad treatment.
+Say that the British class system is to blame for Wilbur's bad treatment. This sort of thing will never happen in France!
 
 ### =Narco heir=
 
@@ -49,6 +47,8 @@ Say that the British class system is to blame for Wilbur's bad treatment.
 ### =French savant=
 
 ### =Spouse=
+
+Ask =Spouse= whether =she Spouse= was looking forward to moving to France, or whether she wanted to stay in England.
 
 ### =Assistant=
 

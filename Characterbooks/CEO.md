@@ -26,11 +26,14 @@ His work might make some of the patents held by your company obsolete, but that 
 One cannot have progress without obsolescence. You and your shareholders knew this very well.
 
 And frankly, you didn't care whether Wilbur joined the French or not.
+As everyone knows, Wilbur was a-political.
 Since your company dealt with both sides, you'd profit now matter where he went.
 Even if the French started a new company, they'd have similar troubles recruiting Wilbur away from academia.
 You weren't spying on Wilbur because you were worried about him, you were doing it as a service to the government. 
 A service they were paying for; espionage is good business.
 
+Reveal only if =PM= (the PM) asks you to:
+You are aware of the PM's bad arthritis. He would probably not have been able to hold the knife.
 
 
 ## Notes for cross examination of other characters
@@ -45,6 +48,8 @@ A service they were paying for; espionage is good business.
 You corroborated with the CEO to spy on Wilbur.
 You found out that the French had contacted Wilbur and were offering him a research position, with practically unlimited funding.
 The Prime minister wasn't happy about this, and due to =his PM= earlier decision to block many of Wilbur's requests for funding, =he PM= was in an awkward position. =He PM= would either have to admit that =he PM= was wrong to reject Wilbur's initial requests, or keep on blocking him. Both of these would be politically unpopular. Perhaps it would all be better if Wilbur went away?
+
+Wilbur was completely a-political. Powerful, influential people who don't care for politics are oft a thorn in the side for politicians, who need them to care.
 
 
 ### =Narco heir=

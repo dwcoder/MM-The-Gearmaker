@@ -4,7 +4,7 @@
 
 workdir=$(pwd)
 output_folder='_generated_game'
-abs_replace_list_file=$workdir/pronouns_to_replace.txt
+abs_replace_list_file=$workdir/pronouns_and_replacements.txt
 
 function do_replacings() {
     filename=$1

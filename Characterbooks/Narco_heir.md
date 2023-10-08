@@ -8,7 +8,7 @@ You are the heir of a family that owns a multinational corporation, which itself
 Your family fortune was amassed via illicit means; your father was the largest opium smuggler in Europe. 
 He was a very smart man, however, and he covered  his tracks expertly. Thus, no illegality has ever been proven and in the last 40 years the family worked hard to make all their holdings legal.
 
-Plus, your family is focussing on a growing, new business sector: warfare.
+Plus, your family is focusing on a growing, new business: warfare.
 
 You act with dignity and grace, and you will not stand for anyone suggesting your family is embroiled in illegal activities.
 

@@ -27,7 +27,7 @@ Plus, in the last 20 years you helped them diversify their holdings away from al
 ### =Luddite=
 
 ### =PM=
-Point out that =PM= is the author and inventor of the Scientific knife fighting system. Tell =him PM= you have seen the result of that system in your line of work, and that the wounds of the victim show a striking similarity.
+Point out that =PM= is the author and inventor of the Scientific knife fighting system. Tell =him PM= you have seen the result of that system in your line of work, and that the wounds of the victim are exactly the same.
 
 ### =Narco heir=
 You can confirm that you were with =Narco heir= in the kitchen at the time of the murder.
@@ -35,7 +35,7 @@ You can confirm that you were with =Narco heir= in the kitchen at the time of th
 ### =Narco Sicario=
 
 ### =French savant=
-When people accuse =French savant= of the crime, you can point out that =he French savant= would certainly know how to use a knife; it is standard spy training.
+When people accuse =French savant= of the crime, you can point out that =he French savant= would certainly know how to use a knife; it is standard spy training. You know this from the circles you operate in.
 
 ### =Spouse=
 As the person responsible for the security matters of the Ryan family, it was your duty to look into Wilbur. 

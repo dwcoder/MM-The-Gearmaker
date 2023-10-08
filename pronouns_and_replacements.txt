@@ -10,6 +10,7 @@
 =His PM=:Her
 =he PM=:she
 =He PM=:She
+=man PM=:woman
 
 =Narco heir=:Dominique Ryan
 =heir Narco heir=:heir
@@ -27,6 +28,7 @@
 =his French savant=:her
 =him French savant=:her
 =he French savant=:she
+=He French savant=:He
 
 =Spouse=:Rae Haborlian
 =she Spouse=:she

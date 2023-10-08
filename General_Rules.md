@@ -10,6 +10,7 @@ These include information about your character, as well as your relationship wit
 During the night, a murder will take place, after which each of the characters will be informally cross examined, taking turns.
 
 After the cross examinations, all the guests will sit down for a dinner during which they will try to figure out who the murderer is.
+The murderer might know they are the murderer, or not. Don't assume anything.
 
 There is no set script, but during the cross examination some of the other characters will accuse you of things, or ask you questions. Characters are free to revisit questions and clarify statements after a cross examination.
 Act as you would if you are locked in a room with a killer; with respect, but suspicion.
