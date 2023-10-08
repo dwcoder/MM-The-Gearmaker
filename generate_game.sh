@@ -133,8 +133,5 @@ echo -------------------------------------------------------------------------
 echo All done
 
 
-find ./$output_folder -iname "*.md" | xargs rm
-
-
 
 
