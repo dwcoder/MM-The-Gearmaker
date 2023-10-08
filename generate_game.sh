@@ -66,6 +66,8 @@ do
         pandoc -f markdown -t latex --template="template.tex" -o "$basename".pdf $file
 
     done
+    
+    find . -type f -not -name '*pdf' -print0 | xargs -0 rm --
 
 done
 
@@ -87,6 +89,7 @@ do
     pdflatex $file > pdflatex.log
 
 done
+find . -type f -not -name '*pdf' -print0 | xargs -0 rm --
 
 
 
@@ -125,7 +128,7 @@ echo The following are some missed replacements:
 echo
 find ./$output_folder -iname "*.md" | xargs grep --color=always -n -E "=[^=]*="
 echo
-echo Specify values for these values in '$abs_replace_list_file'
+echo Specify values for these values in "$abs_replace_list_file"
 echo -------------------------------------------------------------------------
 echo All done
 
