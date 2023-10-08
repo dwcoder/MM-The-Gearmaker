@@ -37,6 +37,7 @@
 =Assistant=:Lorraine Stoker
 =she Assistant=:she
 =her Assistant=:her
+=She Assistant=:She
 
 =CEO=:Earle Welter
 =his CEO=:his

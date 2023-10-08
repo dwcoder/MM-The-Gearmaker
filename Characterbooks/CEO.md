@@ -33,7 +33,7 @@ You weren't spying on Wilbur because you were worried about him, you were doing 
 A service they were paying for; espionage is good business.
 
 Reveal only if =PM= (the PM) asks you to:
-You are aware of the PM's bad arthritis. He would probably not have been able to hold the knife.
+You are aware of the PM's bad arthritis. =He PM= would probably not have been able to hold the knife.
 
 
 ## Notes for cross examination of other characters
