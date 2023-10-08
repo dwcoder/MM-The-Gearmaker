@@ -13,6 +13,10 @@ function do_replacings() {
             then
                 continue # skip empty lines
             fi
+            if [ "${line:0:1}" = "#" ]
+            then
+                continue # Skip lines starting with #
+            fi
 
             # This reads the to_replace and replace_with from the file in the following format:
             # "to_replace:replace_with"

@@ -1,3 +1,43 @@
+# Make changes to this file to update the game with the actual characters
+# Lines beginning with # are ignored
+# The following genders are available for the characters:
+# =Victim= Male
+#
+# =Luddite= Male or female
+#       Odis Urquart
+#       Margaret Urquart
+#
+# =PM=: Male or female
+#       Sir Doctor Conrad Borthwell
+#       Sir Doctor Beula Borthwell
+#
+# =Narco heir=: Male or female
+#       Hazel Ryan
+#       Dominique Ryan
+#
+# =Narco Sicario=: Male or female
+#       Mortimer Sicario
+#       Odelia Sicario
+#
+# =French savant=: Male or female
+#       Arnaud Lepetit
+#       Sophie Lepetit
+#
+# =Spouse=: Female
+#       Rae Haborlian
+#
+# =Assistant=: Female
+#       Lorraine Stoker
+#
+# =CEO=: Male or Female
+#       Earle Welter
+#       Jane Welter
+#
+# =Inspector=: Male or Female
+#       Retired Chief Inspector Mycroft Windsor
+#       Retired Chief Inspector Verla Windsor
+
+
 =Luddite=:Odis Urquart
 =he Luddite=:he
 =him Luddite=:him
