@@ -10,12 +10,12 @@ It is your responsibility to ensure that the evening progresses, and that all th
 Make sure the participants understand that they need to establish a means, motive, and opportunity if they want to accuse someone of murder (if they get all the clues, there is just one answer that makes sense).
 
 
-
 ## During the evening, at start of the event
 
 
 You should discover the body of Wilbur Haborlian. According to your opinion as an inspector:
 
+ - Wilbur's body was found in his laboratory, next to his workbench. It wasn't locked, and the lock on it doesn't appear to work. It is easy to gain access, the lab is connected to the rest of the house. There are plenty of rooms nearby in which the killer could have hidden; and everyone on site would have had access to it.
  - Wilbur is wearing a very ornate pocket watch. It is stuck at around 04:00. On the back it says "To my dear Husband, for old Times' sake".
  - He was killed with the famous ceremonial knife that belongs to the CEO, and the wound was very *scientific* in nature.
  - Nearby, a can of what looks like petrol lies empty. The body is covered with something that smells of oil. There is a lighter next to the body, and a charred piece of cloth, also covered with the same liquid, and that looks somewhat charred. Nothing else in the room is burnt.
