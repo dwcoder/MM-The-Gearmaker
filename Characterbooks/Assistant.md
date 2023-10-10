@@ -27,7 +27,7 @@ You had a good, sometimes strained, but always professional relationship with =S
 
 When asked whether you studied the Prime Minister's knife-fighting manual, respond that you were aware of it, but never studied it.
 
-If someone asks you about the right-wing pamphlet they found with Luddite materials on it, say it is not yours. If the Luddite accuses you of being a two-face, tell =him Luddite= that you are forever grateful for the education they gave you; that you still share their passion, not their disdain for all things mechanical.
+If someone asks you about the right-wing pamphlet they found with Luddite materials on it, inform them that it is not yours. If the Luddite accuses you of being a two-face, tell =him Luddite= that you are forever grateful for the education they gave you; that you still share their passion for England to prosper, just not their disdain for all things mechanical.
 
 When =Luddite= accuses you of abandoning them, tell =him Luddite= that the machines are what is best for England, it is the only way to ascertain our prosperity as a nation. You know =he Luddite= will not see it this way, but it is the hard truth that we must all accept.
 You respect how much he cares for the country --- we all should --- you just think he is misguided.

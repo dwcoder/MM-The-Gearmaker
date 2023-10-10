@@ -2,7 +2,12 @@
 
 This is a murder mystery for 8 players, where the names/pronouns can be changed programmatically for most of the characters.
 
-To generate the game, complete the instructions in the following order:
+For a compiled, playable game with PDFs using all the default character names, see the [releases](https://github.com/dwcoder/MM-The-Gearmaker/releases).
+
+## Customisation
+
+To generate the game with your own character names and pronouns, complete the instructions below, in order.
+I recommend using your guests' actual names. That way, everyone just has to learn one set of names at the party.
 
 
 1. Assign the characters to the actual people in `character assign.txt`.

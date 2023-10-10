@@ -28,6 +28,8 @@ If there is nothing under a character's name, it means you don't have any specif
 You are, however, welcome to ask general questions like "where were you at the time of the murder" or try and suggest a motive.
 You may also ask any questions that come to mind.
 
+The murderer does *not* know they are the murderer. Their booklet contains information they believe to be true.
+
 ## In summary:
 **During your own cross examination:** turn to the pages in your booklet giving information about your own cross examination, and respond accordingly.
 **During the cross examination of others:** turn to the pages in your booklet giving information about the other characters, and respond accordingly. Be sure to reveal information and level accusations as indicated.
