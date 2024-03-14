@@ -7,11 +7,14 @@ title: =French savant=
 You are arrogant and you treat these English people with slight contempt; if they could just relax their bureaucracy for a moment they might be able to get something useful done.
 
 You are a decorated French spy, and you have seen active duty. But since you are retired, you now mostly spend your time on diplomacy.
+You see yourself as a Savant, but you have no scientific skills whatsoever.
 The French have been trying to recruit Wilbur to defect and come over to their side.
 
 ## How to respond to cross examination
 
 Your alibi: Between 9pm and 10pm, you were walking around outside. You briefly ran into =Spouse= and you shared some friendly words. She looked fine; not like someone who just committed a murder.
+
+_Only if someone asks you_, the lighter does belong to you. Wilbur borrowed it after dinner, he said the matches in his lab had run out. Wilbur assumed all french people carry lighters, for some reason. They don't, but you do.
 
 If the Prime Minister is hostile towards you, just ignore =him PM=. You won't stoop to =his PM= level.
 

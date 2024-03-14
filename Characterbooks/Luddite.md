@@ -20,6 +20,8 @@ In fact, you hated Wilbur so much that you ensured to never be in a room with hi
 
 You can also point out that you are an old, scholarly man who doesn't know the first thing about weapons handling. You always firmly believed that the pen is mightier than the sword, and thus you used your pen, through propaganda, to reprimand Wilbur and his blasphemous science.
 
+In fact, the propaganda found is in fact an example of this. It's one of your designs, but you don't know how it got there. These pamphlets are available all through the city. 
+
 If =Spouse= argues that hateful words lead to violence, warn them that this is a common accusation, and that they'd better have evidence that will hold up in court, lest they want to be sued for libel. 
 
 

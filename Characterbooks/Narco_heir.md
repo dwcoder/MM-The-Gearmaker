@@ -14,12 +14,16 @@ You act with dignity and grace, and you will not stand for anyone suggesting you
 
 ## How to respond to cross examination
 
-Your alibi: You were with =Narco Sicario= in the kitchen. No one else saw you.
+Your alibi: You were with =Narco Sicario= in the library. No one else saw you.
+You were writing your book.
+You are in fact working on a novel, a very high-brow, complicated novel with a very intellectual plot.
 
 =Assistant= will accuse your family of killing her father. Respond that you cannot speak for your family who are diseased, but that anyone is welcome to take allegations to court and prove their case.
 Mention that you have only ever used your fortune to do good: it was YOU who funded Wilbur when no one else believed in him. 
 
 People might suggest that you wanted to kill Wilbur since he wanted to distance himself from your family. That was certainly his right. If anyone accuses your family of using violence to punish disrespect, tell them all that is long since behind you. Those were different times.
+
+When people get suspicious of you, make your embarrassing confession: Your novel isn't high brow at all. It is erotica.
 
 ## Notes for cross examination of other characters
 (This contains questions to ask other characters while they are being cross examined.)
@@ -34,7 +38,7 @@ People might suggest that you wanted to kill Wilbur since he wanted to distance 
 ### =Narco heir=
 
 ### =Narco Sicario=
-You can confirm that you were with =Narco Sicario= in the kitchen at the time of the murder.
+You can confirm that you were with =Narco Sicario= in the library at the time of the murder.
 
 ### =French savant=
 

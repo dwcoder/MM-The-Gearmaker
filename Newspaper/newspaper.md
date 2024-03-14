@@ -56,6 +56,7 @@ Said to have been orphaned during the drug turf-wars of the London slums, she re
 **=CEO=**  \
 Chief Executive Officer of British Trans-continental Defence (BTD) Ltd.
 The company is partly owned by the Ryan family and specialises in copper communications cables and defence communications technology. =CEO= has grown the company eight-fold during =his CEO= tenure, but they have been accused of selling to both sides of the Anglo-Franco aggression. Whoever loses in a hypothetical war between these two industrial superpowers, BTD Ltd. is sure to have a winning balance sheet.
+=He CEO= is said to carry the priceless BTD ceremonial knife on =his CEO= person at all times, which makes =him CEO= more eccentric than =his CEO= predecessors who merely kept it in the company vault.
 
 **=Inspector=**  \
 Negotiations consultant and mediator, used to work for Scotland Yard.

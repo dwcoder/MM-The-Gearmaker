@@ -11,7 +11,7 @@ While you are aware of murders happening in their turf wars, you never got your 
 
 
 ## How to respond to cross examination
-Your alibi: You where in the kitchen at the time of the murder with =Narco heir=.
+Your alibi: You where in the library at the time of the murder with =Narco heir=, where =he Narco heir= was working on his novel. 
 
 =Assistant= is very hostile towards the Ryan family, and =she Assistant= will make an accusation that you killed Wilbur.
 You can admit that things weren't always above board with the Ryan family business, but you only took care of security. You certainly never used violence, luckily you didn't have to.
@@ -25,12 +25,14 @@ Plus, in the last 20 years you helped them diversify their holdings away from al
 ### The Victim
 
 ### =Luddite=
+That propaganda looks like that of the Luddites.
+Ask =Luddite= whether the propaganda belongs to =him Luddite=, and how it got there.
 
 ### =PM=
 Point out that =PM= is the author and inventor of the Scientific knife fighting system. Tell =him PM= you have seen the result of that system in your line of work, and that the wounds of the victim are exactly the same.
 
 ### =Narco heir=
-You can confirm that you were with =Narco heir= in the kitchen at the time of the murder.
+You can confirm that you were with =Narco heir= in the library at the time of the murder.
 
 ### =Narco Sicario=
 

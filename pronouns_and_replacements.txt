@@ -44,17 +44,17 @@
 =his Luddite=:him
 =gentleman Luddite=:gentleman
 
-=PM=:Lady Doctor Beula Borthwell
-=him PM=:her
-=his PM=:her
-=His PM=:Her
-=he PM=:she
-=He PM=:She
-=man PM=:woman
+=PM=:Sir Doctor Conrad Borthwell
+=him PM=:him
+=his PM=:his
+=His PM=:His
+=he PM=:he
+=He PM=:He
+=man PM=:man
 
 =Narco heir=:Dominique Ryan
 =heir Narco heir=:heir
-
+=he Narco heir=:he
 
 =Narco Sicario=:Mortimer Sicario
 =he Narco Sicario=:he
@@ -62,12 +62,12 @@
 =his Narco Sicario=:his
 =him Narco Sicario=:him
 =man Narco Sicario=:man
-=name only Narco Sicario=:Mortimer
+=name only Narco Sicario=:Zach
 
-=French savant=:Sophie Lepetit
-=his French savant=:her
-=him French savant=:her
-=he French savant=:she
+=French savant=:Arnaud Lepetit
+=his French savant=:his
+=him French savant=:him
+=he French savant=:he
 =He French savant=:He
 
 =Spouse=:Rae Haborlian
@@ -80,9 +80,11 @@
 =Her Assistant=:Her
 =She Assistant=:She
 
-=CEO=:Earle Welter
+=CEO=:Earle Tinker-Welterman
 =his CEO=:his
+=He CEO=:He
+=him CEO=:him
 
-=Inspector=:Retired Chief Inspector Mycroft Windsor
+=Inspector=:Retired Chief Inspector Dirk Windsor
 =he Inspector=:he
 

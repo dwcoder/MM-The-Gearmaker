@@ -18,7 +18,7 @@ You should discover the body of Wilbur Haborlian. According to your opinion as a
  - Wilbur's body was found in his laboratory, next to his workbench. It wasn't locked, and the lock on it doesn't appear to work. It is easy to gain access, the lab is connected to the rest of the house. There are plenty of rooms nearby in which the killer could have hidden; and everyone on site would have had access to it.
  - Wilbur is wearing a very ornate pocket watch. It is stuck at around 04:00. On the back it says "To my dear Husband, for old Times' sake".
  - He was killed with the famous ceremonial knife that belongs to the CEO, and the wound was very *scientific* in nature.
- - Nearby, a can of what looks like petrol lies empty. The body is covered with something that smells of oil. There is a lighter next to the body, and a charred piece of cloth, also covered with the same liquid, and that looks somewhat charred. Nothing else in the room is burnt.
+ - Nearby, a can of what looks like petrol lies empty. The body is covered with something that smells of oil. There is a lighter next to the body, and a charred piece of cloth, also covered with the same liquid, and that looks somewhat charred. Nothing else in the room is burnt. The lighter has a French flag on it.
  - A search of the area reveals nothing further of interest, except for a piece of right-wing Luddite propaganda
 
 You all arrived last night, had an early dinner at the property, and you all stayed over. You don't know what everyone was doing after dinner, which ended at about 7pm. 
@@ -31,14 +31,16 @@ You arrived after the murder happened, so it cannot be you. This isn't an opinio
 
 ## Make sure you point out the following during the cross examination (in addition to the things that your own character has to mention
 
+Before starting the cross examination, ask whether anyone has anything to confess at this time.
+
 The characters can be cross-examined in any order, but the following is suggested:
 
- * =Luddite=
+ * =Spouse=
  * =PM=
+ * =Luddite=
  * =Narco heir=
  * =Narco Sicario=
  * =French savant=
- * =Spouse=
  * =Assistant=
  * =CEO=
 

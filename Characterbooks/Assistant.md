@@ -20,19 +20,21 @@ You can confirm that the smell and the weird liquid on the body is from a lubric
 The lubricant is a specialist type, and it is not flammable. However, it looks and smells flammable, and it's kept in cans that look like petrol cans.
 You only recently started using this.
 
-You don't have an alibi. You were in your during the time of the murder, you went there straight after dinner.
+You don't have an alibi. You were in your room during the time of the murder, you went there straight after dinner.
 
 When asked whether you were sleeping with Wilbur, you can truthfully deny it. You got your job through merit, not through sexual favours. You are aware of all his affairs, but you were not one of them.
 You had a good, sometimes strained, but always professional relationship with =Spouse=.
 
 When asked whether you studied the Prime Minister's knife-fighting manual, respond that you were aware of it, but never studied it.
 
-If someone asks you about the right-wing pamphlet they found with Luddite materials on it, inform them that it is not yours. If the Luddite accuses you of being a two-face, tell =him Luddite= that you are forever grateful for the education they gave you; that you still share their passion for England to prosper, just not their disdain for all things mechanical.
+If the Luddite accuses you of being a two-face, tell =him Luddite= that you are forever grateful for the education they gave you; that you still share their passion for England to prosper, just not their disdain for all things mechanical.
 
 When =Luddite= accuses you of abandoning them, tell =him Luddite= that the machines are what is best for England, it is the only way to ascertain our prosperity as a nation. You know =he Luddite= will not see it this way, but it is the hard truth that we must all accept.
 You respect how much he cares for the country --- we all should --- you just think he is misguided.
 
 The Prime Minster will ask whether you knew of the plans of the French. Yes, Wilbur told you that he was considering it, and that he was having a tough time with the decision.
+Obviously, you told him not to go.
+We must all do what is best for England.
 
 
 ## Notes for cross examination of other characters
@@ -62,6 +64,11 @@ You are sure =Narco Sicario= has blood on =his Narco Sicario= hands, make a comm
 =He Narco Sicario= will also know how to handle a knife.
 
 ### =French savant=
+
+You have no questions for =French savant=, the French Savant.
+Ask everyone why the French Savant has to be here! It makes no sense.
+England can stand on its own.
+You should not be discussing things with a French person present, not even to mention one who was an ex-Spy!
 
 ### =Spouse=
 
