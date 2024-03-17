@@ -55,8 +55,6 @@ During this interrogation, it will become public that the French were trying to 
 Act very hostile towards the French savant, and heckle =him French savant= if =he French savant= says negative things about Britain.
 
 ### =Spouse=
-You can confirm that you were with =her Spouse= at the time of the murder, in the garden.
-(Not that anyone should think this, but you weren't having an affair.)
 
 ### =Assistant=
 Ask whether =she Assistant= knew about the plans of the French to recruit Wilbur.
